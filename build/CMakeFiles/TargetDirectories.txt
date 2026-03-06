@@ -1,0 +1,3 @@
+/home/adamj/workspace/projekt/arkanoid_cpp/build/CMakeFiles/program.dir
+/home/adamj/workspace/projekt/arkanoid_cpp/build/CMakeFiles/edit_cache.dir
+/home/adamj/workspace/projekt/arkanoid_cpp/build/CMakeFiles/rebuild_cache.dir
